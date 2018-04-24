@@ -1,4 +1,9 @@
 #boxRedes{
-  display: inline-block;
-  vertical-align: bottom;
+  display: inline;
+  margin-top: auto;
+}
+
+#txtTituloBlog{
+  margin-top: auto;
+  margin-bottom: auto;
 }
