@@ -1,6 +1,7 @@
 #boxRedes{
   display: inline;
   margin-top: auto;
+  float: right;
 }
 
 #txtTituloBlog{
